@@ -3,7 +3,7 @@ _Software engineer based in Munich 🇩🇪_ <br>
 
 [Email](mailto:xuanson.trinh@outlook.com) / [LinkedIn](https://www.linkedin.com/in/xuanson-trinh/) / [GitHub](https://github.com/xuansontrinh/)
 
-## 👩🏼‍💻 Work Experience
+## 👨‍💻 Work Experience
 
 **Software Developer (Bazel team)** @ [JetBrains GmbH](https://jetbrains.com/) _(Feb 2023 - Present)_ <br>
 Develop Bazel plugin app for IntelliJ IDEA platform.
