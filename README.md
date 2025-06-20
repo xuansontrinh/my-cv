@@ -6,16 +6,24 @@ _Software engineer based in Munich 🇩🇪_ <br>
 ## 👨‍💻 Work Experience
 
 **Software Developer (Bazel team)** @ [JetBrains GmbH](https://jetbrains.com/) _(Feb 2023 - Present)_ <br>
-Develop Bazel plugin app for IntelliJ IDEA platform.
+  - Develop features and contribute to the architectural design of Bazel plugin in the popular IntelliJ IDEA.
+  - Provide support for languages: Java, Kotlin, Scala, Go.
+  - Incorporate features from both IntelliJ platform and bazel throughout their releases.
+  - Cross compiling bazel plugin against multiple IntelliJ IDEA versions.
+  - Map the bazel project structure to IntelliJ-based IDEs project structure.
+  - Work directly with customers to profile and address issues (performance, project structure).
+  - Maintain the bazel build for better dogfooding on our own plugin.
+  - **_Technologies used:_** Kotlin, bazel, IntelliJ Platform.
 <br><br>
 
 **Data Engineer Intern** @ [Datadog Paris](https://datadoghq.com/) _(Jun 2022 - Nov 2022)_ <br>
-Develop pipelines for extracting automatically insights from internal data to support business.
-  - Collaborated in a fast-paced international environment.
-  - Better understood the best practices in data engineering, data science applied in the industry.
-  - Better understood how analytics organisations and analytical systems work.
-  - Took ownerships of a few analytics team's data pipelines.
-  - **_Technologies used:_** Python, Scala, Spark, luigi, and SQL.
+  - Developed pipelines for automatically extracting insights from internal data to support business.
+  - Worked with data infrastructure team to collect more data, especially from new collectors.
+  - Worked with stakeholders to clarify requirements for expected results.
+  - Developed complex pipelines for batch processing data manipulation jobs.
+  - Developed data cleaning/preprocessing jobs to ensure data quality.
+  - Developed dashboards for BI purposes.
+  - **_Technologies used:_** luigi, Python, Spark, Scala, SQL, Metabase.
 <br><br>
 
 **Student Assistant** @ [Ludwig-Maximilians-Universität München](https://lmu.de/) _(Nov 2021 - Oct 2022)_ <br>
