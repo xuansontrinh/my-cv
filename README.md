@@ -54,7 +54,7 @@ Add features for Scala plugin in IntelliJ IDEA.
 ## 💬 Languages
 🇻🇳 **Vietnamese**: Native <br>
 🇺🇸 **English**: C2 <br>
-🇩🇪 **German**: A1
+🇩🇪 **German**: B1
 <br><br>
 
 ## 🎓 Education
